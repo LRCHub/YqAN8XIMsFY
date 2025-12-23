@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "モラトリアム",
+  "base_artist": "レミオロメン",
+  "createdAt": "2025-12-23T03:33:25.636929Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "モラトリアム",
+      "artist": "Omoinotake",
+      "has_synced": true,
+      "path": "select/01_モラトリアム_Omoinotake.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "モラトリアム",
+      "artist": "BAND-MAID",
+      "has_synced": true,
+      "path": "select/02_モラトリアム_BAND-MAID.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "モラトリアム",
+      "artist": "BAND‐MAID",
+      "has_synced": true,
+      "path": "select/03_モラトリアム_BAND‐MAID.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "モラトリアム",
+      "artist": "ROOKiEZ is PUNK'D",
+      "has_synced": true,
+      "path": "select/04_モラトリアム_ROOKiEZ_is_PUNK'D.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "モラトリアム - GAME VERSION",
+      "artist": "双葉杏 (CV: 五十嵐裕美)",
+      "has_synced": true,
+      "path": "select/05_モラトリアム_-_GAME_VERSION_双葉杏_(CV__五十嵐裕美).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "モラトリアム",
+      "artist": "レミオロメン",
+      "has_synced": true,
+      "path": "select/06_モラトリアム_レミオロメン.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "モラトリアム",
+      "artist": "Omoinotake",
+      "has_synced": true,
+      "path": "select/07_モラトリアム_Omoinotake.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "モラトリアム",
+      "artist": "レミオロメン",
+      "has_synced": false,
+      "path": "select/08_モラトリアム_レミオロメン.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "モラトリアム",
+      "artist": "BAND-MAID",
+      "has_synced": true,
+      "path": "select/09_モラトリアム_BAND-MAID.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "モラトリアム - Moratorium",
+      "artist": "Omoinotake",
+      "has_synced": true,
+      "path": "select/10_モラトリアム_-_Moratorium_Omoinotake.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "モラトリアム",
+      "artist": "nano.RIPE",
+      "has_synced": true,
+      "path": "select/11_モラトリアム_nano.RIPE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "モラトリアム・クラスタ",
+      "artist": "I’ve",
+      "has_synced": false,
+      "path": "select/12_モラトリアム・クラスタ_I’ve.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "モラトリアム",
+      "artist": "DIAURA",
+      "has_synced": true,
+      "path": "select/13_モラトリアム_DIAURA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "モラトリアム",
+      "artist": "レミオロメン",
+      "has_synced": false,
+      "path": "select/pl_01_モラトリアム_レミオロメン.txt"
+    }
+  ]
+}
